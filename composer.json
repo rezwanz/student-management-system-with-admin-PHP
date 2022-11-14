@@ -1,0 +1,14 @@
+{
+  "name" : "input-form/input-form",
+  "type" : "project",
+  "description": "simple php project",
+  "keywords": [],
+  "license": "",
+  "require": {},
+  "require-dev": {},
+  "autoload": {
+    "psr-4": {
+      "App\\": "app//"
+    }
+  }
+}
